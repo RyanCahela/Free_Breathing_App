@@ -5,8 +5,14 @@ function HomeScreen() {
   return (
     <>
       <h1>Free Breathing App</h1>
-      <Link to="/round">Start</Link>
-      <Link to="/settings">Settings</Link>
+      <ul>
+        <li>
+          <Link to="/round">Start</Link>
+        </li>
+        <li>
+          <Link to="/settings">Settings</Link>
+        </li>
+      </ul>
     </>
   );
 }
