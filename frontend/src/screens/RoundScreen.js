@@ -1,23 +1,18 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useRef } from "react";
 
 function RoundScreen(props) {
   //1 breath = 4 seconds
+  const videoObjRef = useRef(null);
 
-  const [seconds, setSeconds] = useState(4);
-  const [breaths, setBreaths] = useState(0);
-
-  useEffect(() => {
-    const timeoutId = setTimeout(
-      () => setBreaths((breaths) => ++breaths),
-      4000
-    );
-  });
 
   return (
     <>
       <h1>Rounds Screen</h1>
       <h2>Breath</h2>
-      <div>{breaths}</div>
+      <button onClick={(e) => videoObjRef.current.currentTime = 950}>Start One More Round</button>
+      <video ref={videoObjRef} controls width="100%">
+        <source src="./video/3-rounds-of-60-breaths.mp4" type="video/mp4"></source>
+      </video>
     </>
   );
 }
