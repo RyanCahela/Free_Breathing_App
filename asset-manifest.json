@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RyanCahela/Free_Breathing_App/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/RyanCahela/Free_Breathing_App/static/js/main.1fbcf9ed.chunk.js",
+    "main.js.map": "/RyanCahela/Free_Breathing_App/static/js/main.1fbcf9ed.chunk.js.map",
+    "runtime-main.js": "/RyanCahela/Free_Breathing_App/static/js/runtime-main.edde9396.js",
+    "runtime-main.js.map": "/RyanCahela/Free_Breathing_App/static/js/runtime-main.edde9396.js.map",
+    "static/js/2.8e1c041c.chunk.js": "/RyanCahela/Free_Breathing_App/static/js/2.8e1c041c.chunk.js",
+    "static/js/2.8e1c041c.chunk.js.map": "/RyanCahela/Free_Breathing_App/static/js/2.8e1c041c.chunk.js.map",
+    "index.html": "/RyanCahela/Free_Breathing_App/index.html",
+    "precache-manifest.07af8d3034f499c2aee0b42a48f01cf7.js": "/RyanCahela/Free_Breathing_App/precache-manifest.07af8d3034f499c2aee0b42a48f01cf7.js",
+    "service-worker.js": "/RyanCahela/Free_Breathing_App/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/RyanCahela/Free_Breathing_App/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8e1c041c.chunk.js.LICENSE.txt": "/RyanCahela/Free_Breathing_App/static/js/2.8e1c041c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edde9396.js",
+    "static/js/2.8e1c041c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1fbcf9ed.chunk.js"
+  ]
+}
