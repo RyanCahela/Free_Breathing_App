@@ -11,7 +11,7 @@ function RoundScreen(props) {
       <h2>Breath</h2>
       <button onClick={(e) => videoObjRef.current.currentTime = 950}>Start One More Round</button>
       <video ref={videoObjRef} controls width="100%">
-        <source src="./video/3-rounds-of-60-breaths.mp4" type="video/mp4"></source>
+        <source src="video/3-rounds-of-60-breaths.mp4" type="video/mp4"></source>
       </video>
     </>
   );
