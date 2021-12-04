@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Free_Breathing_App/precache-manifest.27b6a8fb82231683eb0c3ae6ff32be63.js"
+  "/Free_Breathing_App/precache-manifest.2efdbad7bf7dd2e2396ef757486a1c5d.js"
 );
 
 self.addEventListener('message', (event) => {

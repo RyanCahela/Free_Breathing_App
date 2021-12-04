@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48b4618016d86fac06d845a35430eb4f",
+    "revision": "8705e923ebd5d69b4fdaf92f23439cbc",
     "url": "/Free_Breathing_App/index.html"
   },
   {
-    "revision": "61b9d51d39c3d061644f",
+    "revision": "165b27acee6f908a2bdc",
     "url": "/Free_Breathing_App/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Free_Breathing_App/static/js/2.8e1c041c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61b9d51d39c3d061644f",
-    "url": "/Free_Breathing_App/static/js/main.e3684189.chunk.js"
+    "revision": "165b27acee6f908a2bdc",
+    "url": "/Free_Breathing_App/static/js/main.6e197bba.chunk.js"
   },
   {
     "revision": "cbcbb67f211a6007d085",

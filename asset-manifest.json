@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Free_Breathing_App/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Free_Breathing_App/static/js/main.e3684189.chunk.js",
-    "main.js.map": "/Free_Breathing_App/static/js/main.e3684189.chunk.js.map",
+    "main.js": "/Free_Breathing_App/static/js/main.6e197bba.chunk.js",
+    "main.js.map": "/Free_Breathing_App/static/js/main.6e197bba.chunk.js.map",
     "runtime-main.js": "/Free_Breathing_App/static/js/runtime-main.c14d3a5b.js",
     "runtime-main.js.map": "/Free_Breathing_App/static/js/runtime-main.c14d3a5b.js.map",
     "static/js/2.8e1c041c.chunk.js": "/Free_Breathing_App/static/js/2.8e1c041c.chunk.js",
     "static/js/2.8e1c041c.chunk.js.map": "/Free_Breathing_App/static/js/2.8e1c041c.chunk.js.map",
     "index.html": "/Free_Breathing_App/index.html",
-    "precache-manifest.27b6a8fb82231683eb0c3ae6ff32be63.js": "/Free_Breathing_App/precache-manifest.27b6a8fb82231683eb0c3ae6ff32be63.js",
+    "precache-manifest.2efdbad7bf7dd2e2396ef757486a1c5d.js": "/Free_Breathing_App/precache-manifest.2efdbad7bf7dd2e2396ef757486a1c5d.js",
     "service-worker.js": "/Free_Breathing_App/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Free_Breathing_App/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.8e1c041c.chunk.js.LICENSE.txt": "/Free_Breathing_App/static/js/2.8e1c041c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c14d3a5b.js",
     "static/js/2.8e1c041c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e3684189.chunk.js"
+    "static/js/main.6e197bba.chunk.js"
   ]
 }
